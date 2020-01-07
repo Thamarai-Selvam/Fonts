@@ -1,3 +1,4 @@
+```bash
 .
 ├── [0-9]
 │   ├── 04B_03_.TTF
@@ -4648,3 +4649,4 @@
     └── ZZZTop.ttf
 
 27 directories, 4620 files
+```
